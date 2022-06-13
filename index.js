@@ -7,6 +7,6 @@ let rMale = male[Math.floor(Math.random() * male.length)]
 let rFemale = female[Math.floor(Math.random() * male.length)]
 let rPlace = place[Math.floor(Math.random() * male.length)]
 
-
+// This doesn't look like a clean code —
 
 console.log(`${rMale} is taking ${rFemale} to ${rPlace}`)
